@@ -1,4 +1,6 @@
-- dsc.gg/hackercom -                            |
+- dsc.gg/hackercom -  
+
+                          
 --- Разработчик HackerCommunity ---             |    
 ________________________________________________| 
 
